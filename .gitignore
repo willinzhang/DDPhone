@@ -61,3 +61,14 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+index.android.js
+Podfile.lock
+DDPhoneApp/ios/Pods
+node_modules/yargs/node_modules
+node_modules
+ios/Pods
+android/.gradle/2.14.1/tasks/_react-native-device-info-hfjy_compileReleaseJavaWithJavac
+android/.gradle/2.14.1/tasks/_react-native-view-shot_compileDebugJavaWithJavac
+android/.gradle
+android/.idea/libraries
+.idea

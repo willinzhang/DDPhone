@@ -1,0 +1,8 @@
+platform :ios, '8.0'
+target ‘DDPhoneApp’ do
+pod 'Qiniu'
+pod 'UpYunSDK'
+pod 'UMengAnalytics'
+pod 'QBImagePickerController'
+pod 'RSKImageCropper'
+end
